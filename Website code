@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Great Test</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>The Great Test</h1>
+  <h2>Tips for a Great Website:</h2>
+  <ul>
+    <li>Keep it simple and easy to navigate.</li>
+    <li>Use clear and concise language.</li>
+    <li>Ensure fast loading times for better user experience.</li>
+    <li>Optimize your website for mobile devices.</li>
+    <li>Incorporate visually appealing and relevant images.</li>
+    <li>Make sure all links and buttons work correctly.</li>
+    <li>Provide valuable and engaging content for your audience.</li>
+    <li>Include contact information for easy communication.</li>
+    <li>Regularly update and maintain your website.</li>
+    <li>Test your website on different browsers and devices.</li>
+  </ul>
+</body>
+</html>
